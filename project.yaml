@@ -1,5 +1,5 @@
 basic:
-    name: 'Baumbach and Sons'
+    name: 'Hand, Boyle and Schimmel'
     environments:
         production: 'https://www.mos.org/'
         staging: ''
